@@ -24,18 +24,12 @@ Ich bin Quereinsteiger und auf der Suche nach meiner ersten Stelle als Junior-Fr
 **[🗾 Japan-Travelguide](https://github.com/MxPx94/Japan-Travelguide)** — [Live-Demo](https://mxpx94.github.io/Japan-Travelguide/)
 Mehrseitige Reiseplaner-App mit Währungsrechner, Bildergalerie, Quiz und Sprichwort-Sammlung (JSON-gestützt).
 
-**[🌳 shinrin-bonsai-website](https://github.com/MxPx94/shinrin-bonsai-website)**
+**[🌳 shinrin-bonsai-website](https://github.com/MxPx94/shinrin-bonsai-website)** — [Live-Demo](https://mxpx94.github.io/shinrin-bonsai-website/)
 5-seitige Business-Website mit Produktseite, Kontaktformular und sauber dokumentierter, austauschbarer Asset-Struktur.
 
-**[✈️ Flug-Vergleich](https://github.com/MxPx94/Flug-Vergleich)**
+**[✈️ Flug-Vergleich](https://github.com/MxPx94/Flug-Vergleich)** — [Live-Demo](https://mxpx94.github.io/Flug-Vergleich/)
 Frontend-Tool zum Vergleichen von Flügen (HTML/CSS/JS).
 
----
-
-### 📊 GitHub Stats
-
-![MxPx94's GitHub stats](https://github-readme-stats.vercel.app/api?username=MxPx94&show_icons=true&theme=default)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MxPx94&layout=compact)
 
 <!--
   Diese beiden Bilder werden dynamisch von einem beliebten Community-Dienst
