@@ -13,6 +13,7 @@ Ich bin Quereinsteiger und auf der Suche nach meiner ersten Stelle als Junior-Fr
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 ![GitHub Pages](https://img.shields.io/badge/GitHub%20Pages-222222?style=flat&logo=githubpages&logoColor=white)
 ![JSON](https://img.shields.io/badge/JSON-000000?style=flat&logo=json&logoColor=white)
@@ -23,6 +24,9 @@ Ich bin Quereinsteiger und auf der Suche nach meiner ersten Stelle als Junior-Fr
 
 **[🗾 Japan-Travelguide](https://github.com/MxPx94/Japan-Travelguide)** — [Live-Demo](https://mxpx94.github.io/Japan-Travelguide/)
 Mehrseitige Reiseplaner-App mit Währungsrechner, Bildergalerie, Quiz und Sprichwort-Sammlung (JSON-gestützt).
+
+**[🗾 Japan-Travelguide Next](https://github.com/MxPx94/japan-travelguide-next)** — [Live-Demo](https://japan-travelguide.vercel.app)
+Next.js-Version des Japan-Travelguides.
 
 **[🌳 Shinrin-Bonsai-Website](https://github.com/MxPx94/shinrin-bonsai-website)** — [Live-Demo](https://mxpx94.github.io/Shinrin-Bonsai-Website/)
 5-seitige Business-Website mit Produktseite, Kontaktformular und sauber dokumentierter, austauschbarer Asset-Struktur.
