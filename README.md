@@ -43,6 +43,6 @@ Next.js-Version des Flugvergleichs mit moderner React-/Next.js-Architektur — N
 
 <!--
   Diese beiden Bilder werden dynamisch von einem beliebten Community-Dienst
-  (github-readme-stats) generiert und aktualisieren sich automatisch — kein
+  (github-readme-stats) generiert und aktualisiert sich automatisch — kein
   eigener Server/Setup nötig. Kann bei Bedarf entfernt werden, ist rein optional.
 -->
