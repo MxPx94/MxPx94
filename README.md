@@ -31,8 +31,14 @@ Next.js-Version des Japan-Travelguides mit modernem Aufbau und responsivem Desig
 **[🌳 Shinrin-Bonsai-Website](https://github.com/MxPx94/shinrin-bonsai-website)** — [Live-Demo](https://mxpx94.github.io/Shinrin-Bonsai-Website/)
 5-seitige Business-Website mit 🪴 Produktseite, 📩 Kontaktformular und sauber dokumentierter, austauschbarer Asset-Struktur.
 
+**[🌳 Shinrin-Bonsai-Website Next](https://github.com/MxPx94/shinrin-bonsai-website-next)** — [Live-Demo](https://shinrin-bonsai-website-next.vercel.app)
+Next.js-Version mit modernem Aufbau und responsivem Design — Next.js 16.3.5.
+
 **[✈️ Flug-Vergleich](https://github.com/MxPx94/Flug-Vergleich)** — [Live-Demo](https://mxpx94.github.io/Flug-Vergleich/)
 Frontend-Tool zum Vergleichen von Flügen mit übersichtlicher Darstellung und einfacher Benutzerführung (HTML/CSS/JS).
+
+**[✈️ Flug-Vergleich Next](https://github.com/MxPx94/flug-vergleich-next)** — [Live-Demo](https://flug-vergleich-next.vercel.app)
+Next.js-Version des Flugvergleichs mit moderner React-/Next.js-Architektur — Next.js 16.3.5.
 
 
 <!--
